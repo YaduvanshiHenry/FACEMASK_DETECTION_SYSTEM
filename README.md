@@ -7,3 +7,4 @@ Use "python3 detect_mask_image.py" in Terminal.
 # FOR REAL-TIME SCANNING FACES:
 Use "python3 detect_mask_video.py" in Terminal.
 
+# Follow For Amazing Projects!!!!!😎
